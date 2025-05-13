@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Farhan Masud Nayem</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/v2/D5603AQFdIcDw9OgzGA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1693214750059?e=1732147200&v=beta&t=3f4_pEodbOgPBBka07ioKDPHKtyNXr01yUd3ZViV4JE">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanmasud1&label=Profile%20views&color=0e75b6&style=flat" alt="farhanmasud1" /> </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!!;It's+Farhan+Masud+Nayem;a+React+Developer;a+Fullstack+Developer;a+Nextjs+Developer;a+Front+End+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!!;It's+Farhan+Masud+Nayem;A+passionate+Web+Developer+from+Bangladesh;a+React+Developer;a+Fullstack+Developer;a+Nextjs+Developer;a+Front+End+Developer;" alt="Typing SVG" />
 </p>
 <p align="left"> <a href="https://twitter.com/farhannayem8" target="blank"><img src="https://img.shields.io/twitter/follow/farhannayem8?logo=twitter&style=for-the-badge" alt="farhannayem8" /></a> </p>
 
