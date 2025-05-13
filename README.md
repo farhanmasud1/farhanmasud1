@@ -1,6 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Farhan Masud Nayem</h1>
-<h3 align="center">A passionate Web Developer from Bangladesh</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanmasud1&label=Profile%20views&color=0e75b6&style=flat" alt="farhanmasud1" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00A0F0&center=true&width=435&lines=Hey+there!!!;It's+Farhan+Masud+Nayem;A+passionate+Web+Developer+from+Bangladesh;a+React+Developer;a+Fullstack+Developer;a+Nextjs+Developer;a+Front+End+Developer;" alt="Typing SVG" />
